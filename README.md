@@ -44,7 +44,10 @@
 <h1 align="center">Bag</h1>
 <img height="500em" src="https://cdn.discordapp.com/attachments/971490256543170694/976186752035348550/bag.png">
 
-
-
-<h2 align="center">Projeto feito com HTML e CSS</h2>
-<h1 align="center"><a href="https://romulo-queiroz.github.io/Galeria/">Acesse o site</a></h1>
+<div style="display: inline_block" align="center"><br>
+  <h3 align="center">Linguagens utilizadas</h3>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.discordapp.com/attachments/971490256543170694/976187778507354213/script-java_1.png">
+</div>
+<h1 align="center"><a href="https://page-ecommerce.netlify.app">Acesse o site</a></h1>
